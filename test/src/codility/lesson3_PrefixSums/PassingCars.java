@@ -10,7 +10,7 @@ Array A contains only 0s and/or 1s:
 The goal is to count passing cars. We say that a pair of cars (P, Q), where 0 ≤ P < Q < N, is passing when P is traveling to the east and Q is traveling to the west.
 
 For example, consider array A such that:
-
+{0,1,0,1,1}
   A[0] = 0
   A[1] = 1
   A[2] = 0
